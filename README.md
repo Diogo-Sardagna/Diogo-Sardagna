@@ -16,8 +16,8 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif"  />
-<img align="right" height="200" src="https://i.gifer.com/3BBS.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif"  />
+<img align="right" height="150" src="https://i.gifer.com/3BBS.gif"  />
 
 ###
 
