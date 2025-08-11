@@ -4,16 +4,16 @@
   <img src="https://camo.githubusercontent.com/b171579099890fd7cd63eec21db2062d3ed196624c99f3a137ce64dd7bbe7205/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3139372f3139373338362e706e67" height="20" alt="java logo"  />
   Brasil.</h5>
 
-
-
-<img align="right" height="150" src="https://cdn.pixabay.com/animation/2022/08/05/18/24/18-24-53-297_512.gif"  />
-
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Diogo-Sardagna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diogo-Sardagna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://cdn.pixabay.com/animation/2022/08/05/18/24/18-24-53-297_512.gif"  />
 
 ###
 
