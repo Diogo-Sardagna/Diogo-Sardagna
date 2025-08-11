@@ -1,4 +1,4 @@
-<h2 align="left">Olá!<img height="75" src="https://cdn.pixabay.com/animation/2023/07/19/11/59/11-59-06-19_512.gif"  /> Como vai?</h2>
+<h2 align="left">Olá!<img height="75" src="https://cdn.pixabay.com/animation/2023/07/19/11/59/11-59-06-19_512.gif"  /> Como vai? <img align="right" height="150" src="https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif"  /></h2>
 
 <h5 align="left">Meu nome é Diogo e eu sou um desenvolvedor de software, no 
   <img src="https://camo.githubusercontent.com/b171579099890fd7cd63eec21db2062d3ed196624c99f3a137ce64dd7bbe7205/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3139372f3139373338362e706e67" height="20" alt="java logo"  />
