@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Olá!<img height="75" src="https://cdn.pixabay.com/animation/2023/07/19/11/59/11-59-06-19_512.gif"  /> Como vai?</h2>
+
+<h5 align="left">Meu nome é Diogo e eu sou um desenvolvedor de software, no 
+  <img src="https://camo.githubusercontent.com/b171579099890fd7cd63eec21db2062d3ed196624c99f3a137ce64dd7bbe7205/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3139372f3139373338362e706e67" height="20" alt="java logo"  />
+  Brasil.</h5>
+
+
+
+<img align="right" height="150" src="https://cdn.pixabay.com/animation/2022/08/05/18/24/18-24-53-297_512.gif"  />
 
 ###
 
@@ -9,11 +17,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
