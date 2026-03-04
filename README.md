@@ -15,7 +15,7 @@
 
 <p align="center">
   Software Engineering student focused on backend development within the Java ecosystem, working on the design and implementation of reliable, well-structured APIs.
-  Experienced in building maintainable systems, applying layered architecture, and following industry best practices in real-world projects.
+  Experienced in building maintainable systems with layered architecture and applying industry best practices in real-world projects.
 </p>
 
 ---
@@ -36,7 +36,7 @@
 
 <tr>
   <td><strong>Architecture</strong></td>
-  <td>Microservices, Layered Architecture, MVC, Clean Architecture Principles</td>
+  <td>Microservices, Layered Architecture, MVC</td>
 </tr>
 
 <tr>
@@ -81,7 +81,7 @@
 <h2 align="center">Career Focus</h2>
 
 <p align="center">
-  Seeking backend opportunities within the Java ecosystem, focused on contributing to real-world systems and growing in software architecture.
+  Seeking backend opportunities within the Java ecosystem, focused on contributing to real-world systems and continuously growing in software architecture.
 </p>
 
 <div align="center">
