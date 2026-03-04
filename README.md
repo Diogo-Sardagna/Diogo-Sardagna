@@ -1,7 +1,6 @@
 <div align="center">
 
-  <h1>Diogo Sardagna</h1>
-  <h3>Backend Developer | Java Ecosystem</h3>
+  <h3>Backend Engineer | Java & Spring</h3>
 
   <a href="https://www.linkedin.com/in/diogo-sardagna">
     <img 
@@ -15,8 +14,8 @@
 <br/>
 
 <p align="center">
-  Software Engineering student with hands-on experience in backend development using the Java ecosystem.
-  Focused on building maintainable systems and well-designed APIs.
+  Software Engineering student focused on backend development within the Java ecosystem, working on the design and implementation of reliable, well-structured APIs.
+  Experienced in building maintainable systems, applying layered architecture, and following industry best practices in real-world projects.
 </p>
 
 ---
